@@ -15,7 +15,7 @@ This technology has the potential to revolutionize the way we think about weight
 #### TL;DR
 This project provides information on ML/AI applications that were used to predict calories loss/weight loss. A summary presentation report is provided below:
 
-- [Capstone Project - Report and Presentation - Predicting Weight Loss](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-.git)
+- [Capstone Project - Report and Presentation - Predicting Weight Loss](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/tree/main/predicting-weight-loss)
 
 #### Rationale
 Weight loss is a difficult and often frustrating process, but it can be life-changing. Here are just a few reasons why anyone should care about weight loss:
@@ -62,7 +62,7 @@ The training model accuracy from this modeling is 0.492845 which means that the 
 | Testing MAE           | 0.202576                         |  
 |                       |                               |  
 
-This may be due to the number of records and features of the dataset. Based on these results, the models listed in the [Methodology](#methodology) section will use the [dailyActivity_merged.csv](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/data/dailyActivity_merged.csv) dataset.
+This may be due to the number of records and features of the dataset. Based on these results, the models listed in the [Methodology](#methodology) section will use the [dailyActivity_merged.csv](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/data/dailyActivity_merged.csv) dataset.
 
 ##### <ins> Data Visualization </ins>
 
@@ -236,11 +236,11 @@ With the three models above producing a best score of 62% to 65%, we are going t
 With the aggregation of models, the average accuracy score of 63%+. Adding weights to the VotingClassifier produced the lowest accuracy score of 63.5%
 
 #### Outline of project
-- [Notebook 1 - predicting-weight-loss-notebook1-linear-regression](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook1-linear-regression.ipynb)
+- [Notebook 1 - predicting-weight-loss-notebook1-linear-regression](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook1-linear-regression.ipynb)
 
-- [Notebook 2 - predicting-weight-loss-notebook2-decision-tree-classifier](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook2-decision-tree.ipynb)
+- [Notebook 2 - predicting-weight-loss-notebook2-decision-tree-classifier](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook2-decision-tree.ipynb)
 
-- [Notebook 3 -predicting-weight-loss-notebook3-comparing-classifiers](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook3-comparing-classifiers.ipynb)
+- [Notebook 3 -predicting-weight-loss-notebook3-comparing-classifiers](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook3-comparing-classifiers.ipynb)
 
 
 #### Next Steps & Recommendations </br>

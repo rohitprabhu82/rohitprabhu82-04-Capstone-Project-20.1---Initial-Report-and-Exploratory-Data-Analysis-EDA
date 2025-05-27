@@ -15,7 +15,7 @@ This technology has the potential to revolutionize the way we think about weight
 #### TL;DR
 This project provides information on ML/AI applications that were used to predict calories loss/weight loss. A summary presentation report is provided below:
 
-- [Capstone Project 20.1 - Initial Report and Exploratory Data Analysis (EDA) - Predicting Weight Loss]()
+- [Capstone Project 20.1 - Initial Report and Exploratory Data Analysis (EDA) - Predicting Weight Loss](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/tree/main/predicting-weight-loss)
 
 #### Rationale
 Weight loss is a difficult and often frustrating process, but it can be life-changing. Here are just a few reasons why anyone should care about weight loss:
@@ -147,11 +147,11 @@ Each notebook includes a Findings section for the models, but a summary is as fo
 
 
 #### Outline of project
-- [Notebook 1 - predicting-weight-loss-notebook1-linear-regression](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook1-linear-regression.ipynb)
+- [Notebook 1 - predicting-weight-loss-notebook1-linear-regression](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook1-linear-regression.ipynb)
 
-- [Notebook 2 - predicting-weight-loss-notebook2-decision-tree-classifier](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook2-decision-tree.ipynb)
+- [Notebook 2 - predicting-weight-loss-notebook2-decision-tree-classifier](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook2-decision-tree.ipynb)
 
-- [Notebook 3 -predicting-weight-loss-notebook3-comparing-classifiers](https://github.com/rohitprabhu82/04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook3-comparing-classifiers.ipynb)
+- [Notebook 3 -predicting-weight-loss-notebook3-comparing-classifiers](https://github.com/rohitprabhu82/rohitprabhu82-04-Capstone-Project-20.1---Initial-Report-and-Exploratory-Data-Analysis-EDA/blob/main/predicting-weight-loss/notebooks/predicting-weight-loss-notebook3-comparing-classifiers.ipynb)
 
 
 #### Next Steps & Recommendations </br>
